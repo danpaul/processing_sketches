@@ -18,14 +18,15 @@ int y2 = 0;
 int variant = 100;
 
 int printOnFrame = 1000;
-//int framesTilexit = 25000;
-int framesTilexit = 100000;
+int framesTilexit = 25000;
+//int framesTilexit = 100000;
 
 //int linesPerPoint = 100;
 //int linesToOtherPoint = 20;
 
 int linesPerPoint = 500;
-int linesToOtherPoint = 50;
+//int linesToOtherPoint = 50;
+int linesToOtherPoint = 100;
 
 void settings(){
   size(width, height);
